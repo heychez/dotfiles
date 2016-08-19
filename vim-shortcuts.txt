@@ -1,0 +1,10 @@
+i		insert text
+a		append text
+o		insert after line
+x		delete char
+
+dd		delete line
+yy	Y	copy line
+p		paste line after
+P		paste line before
+
