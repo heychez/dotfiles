@@ -1,0 +1,20 @@
+sudo apt-get update 
+# sudo apt-get upgrade
+
+sudo apt-get install git
+
+sudo apt-get install zsh
+which zsh
+chsh -s /usr/bin/zsh
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+#git clone https://github.com/powerline/fonts
+#cd /fonts
+#./install.sh
+
+sudo apt-get install vim
+sudo apt-get install tmux
+
+sudo apt-get install nodejs
+sudo npm i -g npm
+
