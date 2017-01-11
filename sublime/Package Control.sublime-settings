@@ -5,15 +5,19 @@
 	],
 	"installed_packages":
 	[
+		"Agila Theme",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Color Highlighter",
 		"ColorPicker",
 		"DocBlockr",
 		"Emmet",
+		"FileBrowser",
 		"Git",
 		"HTML-CSS-JS Prettify",
 		"MarkdownEditing",
 		"Package Control",
 		"Sass",
-		"Solarized Color Scheme",
 		"SublimeLinter",
 		"Terminal"
 	]

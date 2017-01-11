@@ -4,5 +4,13 @@
   { "keys": ["alt+shift+f"], "command": "reindent", "args": {"single_line": false} },
   // { "keys": ["ctrl+alt+e"], "command": "fold_all" }
   { "keys": ["ctrl+alt+w"], "command": "fold" },
-  { "keys": ["ctrl+alt+e"], "command": "unfold" }
+  { "keys": ["ctrl+alt+e"], "command": "unfold" },
+  {
+    "keys": ["f1"],
+    "command": "dired",
+    "args": { 
+      "immediate": true,
+      "single_pane": true
+    }
+  }
 ]
