@@ -49,9 +49,9 @@ sudo apt-get install -y sublime-text-installer
 
 echo "Installing sublime-package-control, plugins, settings"
 curl -O https://packagecontrol.io/Package%20Control.sublime-package
-mv Package%20Control.sublime-package ~/.config/sublime-text-3/Installed Packages/Package%20Control.sublime-package
-yes | cp -rf sublime/Package%20Control.sublime-settings ~/.config/sublime-text-3/Packages/User/.config/sublime-text-3/Packages/User
-yes | cp -rf sublime/Default%20(Linux).sublime-keymap ~/.config/sublime-text-3/Packages/User/Default%20(Linux).sublime-keymap
+mv Package\ Control.sublime-package ~/.config/sublime-text-3/Installed Packages/Package\ Control.sublime-package
+yes | cp -rf sublime/Package\ Control.sublime-settings ~/.config/sublime-text-3/Packages/User/Package\ Control.sublime-settings
+yes | cp -rf sublime/Default\ (Linux).sublime-keymap ~/.config/sublime-text-3/Packages/User/Default\ (Linux).sublime-keymap
 yes | cp -rf sublime/Preferences.sublime-settings ~/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
 
 echo "-------------------------------------------"
