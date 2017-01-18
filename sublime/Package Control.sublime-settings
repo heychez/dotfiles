@@ -12,13 +12,17 @@
 		"ColorPicker",
 		"DocBlockr",
 		"Emmet",
-		"FileBrowser",
 		"Git",
 		"HTML-CSS-JS Prettify",
 		"MarkdownEditing",
 		"Package Control",
+		"Path Tools",
 		"Sass",
+		"SideBarEnhancements",
+		"Status Bar File Size",
 		"SublimeLinter",
-		"Terminal"
+		"Terminal",
+		"W3CValidators",
+		"zz File Icons"
 	]
 }
