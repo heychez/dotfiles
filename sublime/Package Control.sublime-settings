@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Agila Theme",
 		"All Autocomplete",
 		"BracketHighlighter",
@@ -22,7 +23,6 @@
 		"Status Bar File Size",
 		"SublimeLinter",
 		"Terminal",
-		"W3CValidators",
-		"zz File Icons"
+		"W3CValidators"
 	]
 }

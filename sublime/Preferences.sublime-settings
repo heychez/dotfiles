@@ -1,10 +1,10 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Agila Origin Oceanic Next (SL).tmTheme",
+	// "color_scheme": "Packages/User/SublimeLinter/Agila Origin Oceanic Next (SL).tmTheme",
 	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"tab_size": 2,
+	"tab_size": 4,
 	"translate_tabs_to_spaces": true
 }
