@@ -4,6 +4,9 @@ echo "> Unistalling previus version"
 sudo apt-get remove -y sublime-text-installer
 
 echo "> Installing sublime-text"
+mkdir -p ~/.config/sublime-text-3/Installed\ Packages
+mkdir -p ~/.config/sublime-text-3/Packages/User
+
 sudo add-apt-repository -y ppa:webupd8team/sublime-text-3
 sudo apt-get update
 sudo apt-get install -y sublime-text-installer
